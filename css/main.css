@@ -1,0 +1,14 @@
+p {
+  color: #2aa189;
+}
+
+a {
+  border: 1px solid #2aa189;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+#info .wrapper a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */

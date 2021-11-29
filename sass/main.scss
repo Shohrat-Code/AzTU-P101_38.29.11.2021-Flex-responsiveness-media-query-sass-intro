@@ -1,0 +1,19 @@
+$main-color:#2aa189;
+p {
+    color: $main-color;
+}
+
+a {
+    border: 1px solid $main-color;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+#info {
+    .wrapper {
+        p {}
+        a {
+            text-decoration: none;
+        }
+    }
+}
